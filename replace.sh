@@ -8,9 +8,9 @@ cd docs
 
 ## MODIFY THESE WITH YOUR VALUES
 
-MY_TITLE='Foo Bar'
-MY_SUBTITLE='Foos the bar all the buzz'
-MY_USERNAME='MyGitHubUsername'
+MY_TITLE='DMG Liquid Handler Error Log'
+MY_SUBTITLE='Used to document and troubleshoot errors on the Hamilton Microlab Star Liquid Handlers.'
+MY_USERNAME='tasfia-s'
 MY_PROJECT_SLUG='foo-bar'
 
 ## DO NOT MODIFY AFTER THE LINE ABOVE
