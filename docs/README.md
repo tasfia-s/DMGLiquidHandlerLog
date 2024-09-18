@@ -1,5 +1,3 @@
-mv README.template.md README.md
-
 # My Title
 > My subtitle
 
